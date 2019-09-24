@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:width="200dp"
         android:height="60dp"
-        android:text="Hola mundo "
+        android:text="MATCH_PARENT "
         android:textSize="50sp"
         android:background="#65D86D"/>
     <Button
