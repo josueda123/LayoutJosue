@@ -24,6 +24,7 @@
         android:width="200dp"
         android:height="60dp"
         android:text="Hola mundo "
+        android:textSize="50sp"
         android:background="#65D86D"/>
     <TextView
         android:layout_width="wrap_content"
@@ -31,6 +32,7 @@
         android:width="300dp"
         android:height="80dp"
         android:text="hello mundo"
+        android:textSize="50sp"
         android:background="#FCA74B"/>
 
 </LinearLayout>
