@@ -32,7 +32,7 @@
         android:background="#D2DB51"
         android:orientation="vertical">
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:width="300dp"
         android:height="80dp"
